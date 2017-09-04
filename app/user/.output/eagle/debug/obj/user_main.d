@@ -63,6 +63,6 @@
  /opt/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/xtensa/corebits.h \
  ../include/user_modules.h \
  /home/lsevero/Sync/esp8266/nodemcu-firmware/sdk/esp_iot_sdk_v2.1.0/include/espconn.h \
- ../include/rtc/rtctime.h ../modules/wifi_common.h ../include/module.h \
- ../include/user_modules.h ../lua/lrodefs.h ../lua/lrotable.h \
- ../lua/lua.h ../lua/llimits.h ../lua/lobject.h ../lua/lauxlib.h
+ ../modules/wifi_common.h ../include/module.h ../include/user_modules.h \
+ ../lua/lrodefs.h ../lua/lrotable.h ../lua/lua.h ../lua/llimits.h \
+ ../lua/lobject.h ../lua/lauxlib.h
