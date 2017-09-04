@@ -52,4 +52,5 @@
  /home/lsevero/Sync/esp8266/nodemcu-firmware/sdk/esp_iot_sdk_v2.1.0/include/user_interface.h \
  /home/lsevero/Sync/esp8266/nodemcu-firmware/sdk/esp_iot_sdk_v2.1.0/include/queue.h \
  /home/lsevero/Sync/esp8266/nodemcu-firmware/sdk/esp_iot_sdk_v2.1.0/include/spi_flash.h \
- /home/lsevero/Sync/esp8266/nodemcu-firmware/sdk/esp_iot_sdk_v2.1.0/include/gpio.h
+ /home/lsevero/Sync/esp8266/nodemcu-firmware/sdk/esp_iot_sdk_v2.1.0/include/gpio.h \
+ ../include/rtc/rtctime.h ../include/sections.h

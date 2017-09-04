@@ -27,7 +27,8 @@ extern void luaL_assertfail(const char *file, int line, const char *message);
 #define COAP_DEBUG
 #endif /* DEVELOP_VERSION */
 
-#define BIT_RATE_DEFAULT BIT_RATE_115200
+#define BIT_RATE_DEFAULT BIT_RATE_9600
+//#define BIT_RATE_DEFAULT BIT_RATE_115200
 
 // This enables automatic baud rate detection at startup
 #define BIT_RATE_AUTOBAUD
