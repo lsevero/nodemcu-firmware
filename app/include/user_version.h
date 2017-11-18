@@ -6,10 +6,10 @@
 #define NODE_VERSION_REVISION	0U
 #define NODE_VERSION_INTERNAL   0U
 
-#define NODE_VERSION	"NodeMCU 2.1.0 razoavel"
-//#define NODE_VERSION	"NodeMCU 2.1.0"
+#define NODE_VERSION "NodeMCU 2.1.0 razoavel"
+//#define NODE_VERSION "NodeMCU 2.1.0"
 #ifndef BUILD_DATE
-#define BUILD_DATE	  "20170904"
+#define BUILD_DATE  "20170904"
 #endif
 
 extern char SDK_VERSION[];
